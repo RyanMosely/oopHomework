@@ -30,7 +30,7 @@ The amount of employees will determine how many times these questions will be as
 
 * What is your email?
 
-* if(Your position==Manager){
+ if(Your position==Manager){
 
 - What is your office number?
  
@@ -39,10 +39,10 @@ The amount of employees will determine how many times these questions will be as
 - What is your GitHub username?
 
 }else if(Your position==Intern){
-What college did you go to?
+- What college did you go to?
 }
 
-~~repeat questions based off of how many employees starting at 'name' question~~
+~  repeat questions based off of how many employees starting at 'name' question
 
 After the questions are answered, cards are then populated with information based off of the representative questions answered for each employee.
 
