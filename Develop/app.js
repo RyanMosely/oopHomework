@@ -24,6 +24,9 @@ let resArr = [];
         
 
     for (let i = 0;i<userNumber.number;i++){
+
+      console.log('Please enter employee information:');
+
   let response = await prompts([
     {
       type: 'text',
@@ -156,7 +159,7 @@ resArr.forEach(element => {
               </nav>
 
               <br>
-              
+
 
             
                ${mainCard.join('')}
