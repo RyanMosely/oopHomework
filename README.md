@@ -11,7 +11,7 @@ To access this application, please follow the instructions below:
 
 ## Usage
 
-1.) Within the cloned respository in your terminal,  assuming you have node.js installed on your computer, type 'node app.js' and press enter, you will then be prompted to answer the following questions
+1.) Within the cloned respository in your terminal,  assuming you have node.js installed on your computer, type 'node employee.js' and press enter, you will then be prompted to answer the following questions
 
 * How many employees?
 
